@@ -1,0 +1,14 @@
+ol {
+    color: darkmagenta;
+    font-size: medium;
+}
+
+#super {
+    font-size: xx-large;
+}
+
+.st {
+    color: darkturquoise;
+    font-weight: 200;
+    font-variant-ligatures: additional-ligatures;
+}
